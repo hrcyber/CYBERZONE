@@ -70,7 +70,7 @@ def main():
     }
     </style>
     """, unsafe_allow_html=True)
-    st.markdown('<div class="main-header">School Diary: Manage Q&A for Classes 1 to 10</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header">School Diary:</div>', unsafe_allow_html=True)
     st.markdown("---")
 
     # Sidebar navigation
