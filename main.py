@@ -81,7 +81,7 @@ def get_notes(username):
 # Streamlit login page
 def login():
     st.title("Wellcome to Cyber Zone")
-    img = Image.open("uu.jpg")
+    img = Image.open("cc.jpg")
     st.image(
         img,
         caption="Naseem Khan (Software developer)",
