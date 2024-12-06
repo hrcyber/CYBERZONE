@@ -80,7 +80,7 @@ def get_notes(username):
 
 # Streamlit login page
 def login():
-    st.title("Wellcome to Cyber Zone")
+    st.title("Wellcome to C.Zone")
     img = Image.open("cc.jpg")
     st.image(
         img,
